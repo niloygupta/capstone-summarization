@@ -2,5 +2,19 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/emory/clir/clearnlp/3.0.1/clearnlp-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/emory/clir/clearnlp/3.0.1/clearnlp-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/emory/clir/clearnlp-bioinformatics-en-dep/3.0/clearnlp-bioinformatics-en-dep-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/emory/clir/clearnlp-bioinformatics-en-pos/3.0/clearnlp-bioinformatics-en-pos-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/emory/clir/clearnlp-dictionary/3.0/clearnlp-dictionary-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/emory/clir/clearnlp-general-en-dep/3.1/clearnlp-general-en-dep-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/emory/clir/clearnlp-general-en-pos/3.1/clearnlp-general-en-pos-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/emory/clir/clearnlp-medical-en-dep/3.0/clearnlp-medical-en-dep-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/emory/clir/clearnlp-medical-en-pos/3.0/clearnlp-medical-en-pos-3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/com/google/code/gson/gson/2.3.1/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/stanford/nlp/stanford-corenlp/3.5.2/stanford-corenlp-3.5.2-models.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/edu/stanford/nlp/stanford-corenlp/3.5.2/stanford-corenlp-3.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/com/carrotsearch/hppc/0.6.1/hppc-0.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/niloygupta/.m2/repository/org/tukaani/xz/1.5/xz-1.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

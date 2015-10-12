@@ -1,3 +1,4 @@
+package edu.cmu.bioasq.summarization;
 
 
 public class Snippet {

@@ -1,15 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<parent>
-		<groupId>edu.cmu.lti.oaqa</groupId>
-		<artifactId>oaqa</artifactId>
-		<version>4</version>
-	</parent>
-	<groupId>edu.cmu.lti.oaqa.bio.bioasq</groupId>
-	<artifactId>bioasq</artifactId>
+	
+	<groupId>edu.cmu.bioasq.summarization</groupId>
+	<artifactId>capstone-summarization</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BioASQ QA Pipeline</name>
+	<name>BioASQ QA Summarization</name>
 	<description>QA pipeline for BioASQ task (http://bioasq.lip6.fr/Tasks/b/resources/)</description>
 	<url>https://github.com/oaqa/bioasq</url>
 	<inceptionYear>2014</inceptionYear>
@@ -20,11 +16,7 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
-	<scm>
-		<url>git@github.com:oaqa/bioasq.git</url>
-		<connection>scm:git:git@github.com:oaqa/bioasq.git</connection>
-		<developerConnection>scm:git:git@github.com:oaqa/bioasq.git</developerConnection>
-	</scm>
+	
 	<repositories>
 		<repository>
 			<id>oaqa</id>

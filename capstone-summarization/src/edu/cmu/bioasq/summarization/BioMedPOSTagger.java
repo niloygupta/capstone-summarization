@@ -1,3 +1,4 @@
+package edu.cmu.bioasq.summarization;
 
 
 import edu.emory.clir.clearnlp.component.AbstractComponent;
